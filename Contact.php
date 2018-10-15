@@ -10,21 +10,22 @@
         <table border="1" width="980" align="center" cellpadding="5">         
             <tr>
                 <td height="80" width="90" colspan="3" align="center">
-                <h1>Home Page Of Antora</h1>
+                <h1>Home page of Antora</h1>
                 </td>
             </tr>
-            <tr>
+             <tr>
                 <td height="40" align="right" colspan="4" >
-                <big><b> <a href="index.html" >Introduction</a> </b></big>|
-                <big> <a href="Education.html" >Education</a></big> |
-                <big> <a href="Project.html" >Project</a></big> |
-                <big> <a href="Contact.html" >Contacts</a></big>
+                <big><b> <a href="index.php" >Introduction</a> </b></big>|
+                <big> <a href="Education.php" >Education</a></big> |
+                <big> <a href="Project.php" >Project</a></big> |
+                <big> <a href="Contact.php" >Contacts</a></big> |
+				<big> <a href="Registation.php">Registation</a></big>|
+				<big> <a href="Login.php">Login</a></big>
                 </td>
             </tr>
             
-           <tr>
-                <td  bgcolor="##273746 "></td>               
-                <td  valign="middle"  colspan="3" align="center"> 
+           <tr>        
+                <td height="400"  valign="middle"  colspan="3" align="center"> 
                     <h2><u>Contact information</u></h2>
                     <p> Name: Antora Shaha</p>
                     <p>Phone:01756283727</p>
